@@ -1,0 +1,4 @@
+# Ignore .DS_Store file auto create on mac
+.DS_Store
+node_modules/
+.env
