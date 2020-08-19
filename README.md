@@ -3,7 +3,7 @@
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://www.notion.so/MVP-8c8d78f815f849dc905f67b491d00013)
 [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](#)
 
-> Backend Express App for Cureka. Spec: https://www.notion.so/MVP-8c8d78f815f849dc905f67b491d00013
+> Backend Express App for Cureka. Spec: 
 
 
 
